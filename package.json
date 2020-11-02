@@ -1,0 +1,31 @@
+{
+  "name": "ldsvg-ffmpeg",
+  "version": "0.1.0",
+  "description": "Convert a line delimited svg file to a video using ffmpeg",
+  "bin": "converter.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ffmpeg-static": "^4.2.7",
+    "sharp": "^0.26.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanburati/ldsvg-ffmpeg.git"
+  },
+  "keywords": [
+    "svg",
+    "video",
+    "media",
+    "ffmpeg"
+  ],
+  "author": "Dylan Burati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanburati/ldsvg-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/dylanburati/ldsvg-ffmpeg#readme"
+}
